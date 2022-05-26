@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">navigationViewFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_settings">Настройки</string>
+</resources>
